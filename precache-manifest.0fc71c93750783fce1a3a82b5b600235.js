@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "69fc335794c0fcfd006f49066c650505",
-    "url": "/static/media/Shabnam.69fc3357.ttf"
+    "revision": "b4b0c3f3444ad1484544d5d8c17c22b3",
+    "url": "/static/media/Shabnam-Bold.b4b0c3f3.woff2"
   },
   {
-    "revision": "ce7f7edbeae7db9cfc43",
+    "revision": "6a85e7053ce04e4c44cc",
     "url": "/static/css/main.fb7aeb8d.chunk.css"
   },
   {
@@ -20,6 +20,10 @@ self.__precacheManifest = [
     "url": "/static/js/2.59efa3ed.chunk.js"
   },
   {
+    "revision": "5786450e7a833aef44321327fc6ff560",
+    "url": "/static/media/Shabnam.5786450e.eot"
+  },
+  {
     "revision": "4dbfd9c8cce0ab081f9c52aba1fb09f6",
     "url": "/static/media/Shabnam.4dbfd9c8.woff2"
   },
@@ -28,44 +32,40 @@ self.__precacheManifest = [
     "url": "/static/media/Shabnam.384e7a48.woff"
   },
   {
-    "revision": "5786450e7a833aef44321327fc6ff560",
-    "url": "/static/media/Shabnam.5786450e.eot"
+    "revision": "69fc335794c0fcfd006f49066c650505",
+    "url": "/static/media/Shabnam.69fc3357.ttf"
   },
   {
     "revision": "a75460560e8eaf21bf7989e66680ed6b",
     "url": "/static/media/Shabnam-Bold.a7546056.eot"
   },
   {
+    "revision": "6a85e7053ce04e4c44cc",
+    "url": "/static/js/main.6a85e705.chunk.js"
+  },
+  {
     "revision": "a2e792b1282190bb46096a5e897241a8",
     "url": "/static/media/Shabnam-Bold.a2e792b1.woff"
   },
   {
-    "revision": "ce7f7edbeae7db9cfc43",
-    "url": "/static/js/main.ce7f7edb.chunk.js"
-  },
-  {
-    "revision": "b4b0c3f3444ad1484544d5d8c17c22b3",
-    "url": "/static/media/Shabnam-Bold.b4b0c3f3.woff2"
-  },
-  {
-    "revision": "c4e706e50cc23fe375fa1574ff724adc",
-    "url": "/static/media/Shabnam-Light.c4e706e5.woff2"
-  },
-  {
-    "revision": "d907def3f3053111a41ca5170c5b6579",
-    "url": "/static/media/Shabnam-Light.d907def3.eot"
+    "revision": "b7f6b7386ee3eb72d8d709f895e7c912",
+    "url": "/static/media/Shabnam-Bold.b7f6b738.ttf"
   },
   {
     "revision": "a63c99be8f5ad6b957e56d0e9bd20d14",
     "url": "/static/media/Shabnam-Light.a63c99be.woff"
   },
   {
-    "revision": "ecf1c57199b540fb02260ccbe1acc3f1",
-    "url": "/static/media/Shabnam-Light.ecf1c571.ttf"
+    "revision": "d907def3f3053111a41ca5170c5b6579",
+    "url": "/static/media/Shabnam-Light.d907def3.eot"
   },
   {
-    "revision": "b7f6b7386ee3eb72d8d709f895e7c912",
-    "url": "/static/media/Shabnam-Bold.b7f6b738.ttf"
+    "revision": "c4e706e50cc23fe375fa1574ff724adc",
+    "url": "/static/media/Shabnam-Light.c4e706e5.woff2"
+  },
+  {
+    "revision": "ecf1c57199b540fb02260ccbe1acc3f1",
+    "url": "/static/media/Shabnam-Light.ecf1c571.ttf"
   },
   {
     "revision": "fd5728f2cf777b06b966d05c0c823dc9",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.f4e6712b.chunk.css"
   },
   {
-    "revision": "821afba18a38f718c5e3e864f230fa0b",
+    "revision": "bc8941e45c45b0972b95ab331dad978d",
     "url": "/index.html"
   }
 ];
