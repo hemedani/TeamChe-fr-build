@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/Shabnam-Bold.b4b0c3f3.woff2"
   },
   {
-    "revision": "6a85e7053ce04e4c44cc",
+    "revision": "8044f1b1855a53b745a6",
     "url": "/static/css/main.fb7aeb8d.chunk.css"
   },
   {
@@ -20,28 +20,28 @@ self.__precacheManifest = [
     "url": "/static/js/2.59efa3ed.chunk.js"
   },
   {
-    "revision": "5786450e7a833aef44321327fc6ff560",
-    "url": "/static/media/Shabnam.5786450e.eot"
-  },
-  {
     "revision": "4dbfd9c8cce0ab081f9c52aba1fb09f6",
     "url": "/static/media/Shabnam.4dbfd9c8.woff2"
-  },
-  {
-    "revision": "384e7a48c9b0041c7e61d8fa2f3161c8",
-    "url": "/static/media/Shabnam.384e7a48.woff"
   },
   {
     "revision": "69fc335794c0fcfd006f49066c650505",
     "url": "/static/media/Shabnam.69fc3357.ttf"
   },
   {
+    "revision": "384e7a48c9b0041c7e61d8fa2f3161c8",
+    "url": "/static/media/Shabnam.384e7a48.woff"
+  },
+  {
     "revision": "a75460560e8eaf21bf7989e66680ed6b",
     "url": "/static/media/Shabnam-Bold.a7546056.eot"
   },
   {
-    "revision": "6a85e7053ce04e4c44cc",
-    "url": "/static/js/main.6a85e705.chunk.js"
+    "revision": "5786450e7a833aef44321327fc6ff560",
+    "url": "/static/media/Shabnam.5786450e.eot"
+  },
+  {
+    "revision": "8044f1b1855a53b745a6",
+    "url": "/static/js/main.8044f1b1.chunk.js"
   },
   {
     "revision": "a2e792b1282190bb46096a5e897241a8",
@@ -52,16 +52,16 @@ self.__precacheManifest = [
     "url": "/static/media/Shabnam-Bold.b7f6b738.ttf"
   },
   {
-    "revision": "a63c99be8f5ad6b957e56d0e9bd20d14",
-    "url": "/static/media/Shabnam-Light.a63c99be.woff"
-  },
-  {
     "revision": "d907def3f3053111a41ca5170c5b6579",
     "url": "/static/media/Shabnam-Light.d907def3.eot"
   },
   {
     "revision": "c4e706e50cc23fe375fa1574ff724adc",
     "url": "/static/media/Shabnam-Light.c4e706e5.woff2"
+  },
+  {
+    "revision": "a63c99be8f5ad6b957e56d0e9bd20d14",
+    "url": "/static/media/Shabnam-Light.a63c99be.woff"
   },
   {
     "revision": "ecf1c57199b540fb02260ccbe1acc3f1",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.f4e6712b.chunk.css"
   },
   {
-    "revision": "bc8941e45c45b0972b95ab331dad978d",
+    "revision": "46c2bb331704467090f4ff755c9dcb1b",
     "url": "/index.html"
   }
 ];
