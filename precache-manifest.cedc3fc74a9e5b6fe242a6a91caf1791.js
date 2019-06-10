@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "69fc335794c0fcfd006f49066c650505",
-    "url": "/static/media/Shabnam.69fc3357.ttf"
+    "revision": "a75460560e8eaf21bf7989e66680ed6b",
+    "url": "/static/media/Shabnam-Bold.a7546056.eot"
   },
   {
-    "revision": "36bf87974f3fa2fb15bc",
+    "revision": "a6b4c04f374a5560a1a9",
     "url": "/static/css/main.fb7aeb8d.chunk.css"
   },
   {
@@ -32,24 +32,24 @@ self.__precacheManifest = [
     "url": "/static/media/Shabnam.384e7a48.woff"
   },
   {
-    "revision": "a2e792b1282190bb46096a5e897241a8",
-    "url": "/static/media/Shabnam-Bold.a2e792b1.woff"
-  },
-  {
-    "revision": "a75460560e8eaf21bf7989e66680ed6b",
-    "url": "/static/media/Shabnam-Bold.a7546056.eot"
-  },
-  {
-    "revision": "36bf87974f3fa2fb15bc",
-    "url": "/static/js/main.36bf8797.chunk.js"
-  },
-  {
     "revision": "b4b0c3f3444ad1484544d5d8c17c22b3",
     "url": "/static/media/Shabnam-Bold.b4b0c3f3.woff2"
   },
   {
+    "revision": "69fc335794c0fcfd006f49066c650505",
+    "url": "/static/media/Shabnam.69fc3357.ttf"
+  },
+  {
+    "revision": "a6b4c04f374a5560a1a9",
+    "url": "/static/js/main.a6b4c04f.chunk.js"
+  },
+  {
     "revision": "b7f6b7386ee3eb72d8d709f895e7c912",
     "url": "/static/media/Shabnam-Bold.b7f6b738.ttf"
+  },
+  {
+    "revision": "a2e792b1282190bb46096a5e897241a8",
+    "url": "/static/media/Shabnam-Bold.a2e792b1.woff"
   },
   {
     "revision": "c4e706e50cc23fe375fa1574ff724adc",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/static/media/Shabnam-Light.d907def3.eot"
   },
   {
-    "revision": "a63c99be8f5ad6b957e56d0e9bd20d14",
-    "url": "/static/media/Shabnam-Light.a63c99be.woff"
-  },
-  {
     "revision": "ecf1c57199b540fb02260ccbe1acc3f1",
     "url": "/static/media/Shabnam-Light.ecf1c571.ttf"
+  },
+  {
+    "revision": "a63c99be8f5ad6b957e56d0e9bd20d14",
+    "url": "/static/media/Shabnam-Light.a63c99be.woff"
   },
   {
     "revision": "fd5728f2cf777b06b966d05c0c823dc9",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.6822268c.chunk.css"
   },
   {
-    "revision": "bf7e49f6e2ff1c7a51eb751087f5e3ce",
+    "revision": "85c2c54cc4f1cfc79c24c09a8ed92953",
     "url": "/index.html"
   }
 ];
