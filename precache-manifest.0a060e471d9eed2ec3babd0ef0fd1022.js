@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a75460560e8eaf21bf7989e66680ed6b",
-    "url": "/static/media/Shabnam-Bold.a7546056.eot"
+    "revision": "b4b0c3f3444ad1484544d5d8c17c22b3",
+    "url": "/static/media/Shabnam-Bold.b4b0c3f3.woff2"
   },
   {
-    "revision": "a6b4c04f374a5560a1a9",
-    "url": "/static/css/main.fb7aeb8d.chunk.css"
+    "revision": "3f74a095b416a128eb3a",
+    "url": "/static/css/main.708a6494.chunk.css"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -32,20 +32,16 @@ self.__precacheManifest = [
     "url": "/static/media/Shabnam.384e7a48.woff"
   },
   {
-    "revision": "b4b0c3f3444ad1484544d5d8c17c22b3",
-    "url": "/static/media/Shabnam-Bold.b4b0c3f3.woff2"
+    "revision": "a75460560e8eaf21bf7989e66680ed6b",
+    "url": "/static/media/Shabnam-Bold.a7546056.eot"
   },
   {
     "revision": "69fc335794c0fcfd006f49066c650505",
     "url": "/static/media/Shabnam.69fc3357.ttf"
   },
   {
-    "revision": "a6b4c04f374a5560a1a9",
-    "url": "/static/js/main.a6b4c04f.chunk.js"
-  },
-  {
-    "revision": "b7f6b7386ee3eb72d8d709f895e7c912",
-    "url": "/static/media/Shabnam-Bold.b7f6b738.ttf"
+    "revision": "3f74a095b416a128eb3a",
+    "url": "/static/js/main.3f74a095.chunk.js"
   },
   {
     "revision": "a2e792b1282190bb46096a5e897241a8",
@@ -56,16 +52,20 @@ self.__precacheManifest = [
     "url": "/static/media/Shabnam-Light.c4e706e5.woff2"
   },
   {
-    "revision": "d907def3f3053111a41ca5170c5b6579",
-    "url": "/static/media/Shabnam-Light.d907def3.eot"
+    "revision": "a63c99be8f5ad6b957e56d0e9bd20d14",
+    "url": "/static/media/Shabnam-Light.a63c99be.woff"
+  },
+  {
+    "revision": "b7f6b7386ee3eb72d8d709f895e7c912",
+    "url": "/static/media/Shabnam-Bold.b7f6b738.ttf"
   },
   {
     "revision": "ecf1c57199b540fb02260ccbe1acc3f1",
     "url": "/static/media/Shabnam-Light.ecf1c571.ttf"
   },
   {
-    "revision": "a63c99be8f5ad6b957e56d0e9bd20d14",
-    "url": "/static/media/Shabnam-Light.a63c99be.woff"
+    "revision": "d907def3f3053111a41ca5170c5b6579",
+    "url": "/static/media/Shabnam-Light.d907def3.eot"
   },
   {
     "revision": "fd5728f2cf777b06b966d05c0c823dc9",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.6822268c.chunk.css"
   },
   {
-    "revision": "85c2c54cc4f1cfc79c24c09a8ed92953",
+    "revision": "7ac3ffb3ca9fb6c8c00a2c645497dcee",
     "url": "/index.html"
   }
 ];
